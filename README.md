@@ -25,6 +25,6 @@
 
 Built on Instamobile tamplate
 
-By Tiferet Amizur 💗
+> By Tiferet Amizur 💗
 
 
