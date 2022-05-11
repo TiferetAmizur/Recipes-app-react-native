@@ -1,4 +1,4 @@
-# Recipes App in React Native
+# Recipes App - React Native
 
 <center><img src="img1.jpg"</center>
 <center><img src="img2.jpg"</center>
